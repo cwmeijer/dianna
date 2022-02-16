@@ -55,6 +55,9 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
+> [name=Christiaan Meijer] I wonder if this editor is adequate
+> [time=Wed, Feb 16, 2022 4:09 PM] Sure it is, what's not to like?
+
 reported by contacting the project team at dianna-ai@esciencecenter.nl. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
